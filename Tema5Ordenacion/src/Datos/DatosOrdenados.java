@@ -10,7 +10,7 @@ package Datos;
  * @author marcelino
  */
 public class DatosOrdenados {
-public class DatosOrdenados {
+
     private int [] valores; 
 
     public DatosOrdenados(int[] valores) {
